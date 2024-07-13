@@ -54,7 +54,6 @@ Experienced DevOps Engineer specializing in cloud solutions and automation with 
 
 ## Expertise
 
-
 - **Cloud Platforms**: Microsoft Azure, AWS
 - **CI/CD**: Azure Pipelines, GitHub Actions, Jenkins
 - **Containerization**: Docker, Kubernetes (AKS, EKS, Microk8s, Kubeadm)
@@ -69,13 +68,6 @@ Experienced DevOps Engineer specializing in cloud solutions and automation with 
 - **Email Systems**: M-Daemon Email Server administration
 - **Support**: Windows and Microsoft Office user support
 - **Firewall and Load Balancing**: Pfsense configuration and management
-
-## Certifications
-
-- **Cybersecurity Essentials by Cisco**
-- **Network Security by Cisco**
-- **Google IT Support Certificate by Coursera**
-- **Jenkins by Kodekloud**
 
 ## Technical Skills
 
